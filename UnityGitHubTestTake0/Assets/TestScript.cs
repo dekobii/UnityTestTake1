@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class TestScript : MonoBehaviour {
 
-	// Use this for initialization
+	// Use this for initialization ! NO
 	void Start () {
 		
 	}
